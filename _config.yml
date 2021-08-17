@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   As part of my Masters Thesis in Information Sciences (NOVA), this website has the goal
   to showcase the possibilities of IIIF Manifests to a small exhibition of 19th centuries prints.
 baseurl: "/iiifcpitta2" # the subpath of your site, e.g. /blog
-url: "https://cpitta.github.iohttps://cpitta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cpitta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mspillar10
 github_username:  cpitta
 
