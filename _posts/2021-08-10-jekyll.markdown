@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Trying Jekyll"
+date:   2021-08-10 11:16:55 +0100
+categories:
+images: /assets/images/image1.jpg
+---
+Setting up a jekyll website for the first time is a challenge!
