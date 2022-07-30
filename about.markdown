@@ -4,7 +4,11 @@ title: Project
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Cecília (b.1987)
+
+Worked in different museums in London before returning to Lisbon where she is currently working as a Document management solutions consultant.
+Also, she is a masters student in Information Sciences
+For my more details, check the CV page.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
