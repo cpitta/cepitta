@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Visting Libraries"
-date:   YYYY-MM-DD HH:MM:SS +/-TTTT
+date:   "YYYY-MM-DD HH:MM:SS +/-TTTT"
 categories:
 
 ---
