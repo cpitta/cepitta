@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project
+title: About me
 permalink: /about/
 ---
 
